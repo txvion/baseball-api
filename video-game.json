@@ -3,7 +3,7 @@
   "key": "value", 
   "key1": "value1",
   "title": "Halo: Combat Evolved",
-  "genre": ["first-person shooter", "sci-fi", "xbox"],
+  "genre": ["first-person shooter", " sci-fi", " xbox"],
   "publisher": "Gearbox Software",
   "cover_art": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg/220px-Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg"
 },
